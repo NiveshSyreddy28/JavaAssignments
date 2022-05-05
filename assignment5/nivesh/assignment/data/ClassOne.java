@@ -1,4 +1,4 @@
-package com.javaassignments.zemoso.corejava.assignment3.nivesh.assignment.data;
+package com.javaassignments.zemoso.corejava.assignment5.nivesh.assignment.data;
 
 public class ClassOne {
 

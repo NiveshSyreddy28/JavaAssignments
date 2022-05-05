@@ -1,4 +1,4 @@
-package com.javaassignments.zemoso.corejava.assignment3.nivesh.assignment.singleton;
+package com.javaassignments.zemoso.corejava.assignment5.nivesh.assignment.singleton;
 
 public class ClassTwo {
     String memberString ;

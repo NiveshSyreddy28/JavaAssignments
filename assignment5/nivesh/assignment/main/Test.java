@@ -1,6 +1,6 @@
-package com.javaassignments.zemoso.corejava.assignment3.nivesh.assignment.main;
-import com.javaassignments.zemoso.corejava.assignment3.nivesh.assignment.data.ClassOne;
-import com.javaassignments.zemoso.corejava.assignment3.nivesh.assignment.singleton.ClassTwo;
+package com.javaassignments.zemoso.corejava.assignment5.nivesh.assignment.main;
+import com.javaassignments.zemoso.corejava.assignment5.nivesh.assignment.data.ClassOne;
+import com.javaassignments.zemoso.corejava.assignment5.nivesh.assignment.singleton.ClassTwo;
 
 public class Test {
     public static void main(String[] args) {
