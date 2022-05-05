@@ -1,4 +1,4 @@
-package com.javaassignments.zemoso.corejava.assignment5.Problem4;
+package com.javaassignments.zemoso.corejava.assignment7.Problem4;
 
 public class TestFactory {
     public static void main(String[] args) {

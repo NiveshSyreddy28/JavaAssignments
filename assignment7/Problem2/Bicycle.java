@@ -1,4 +1,4 @@
-package com.javaassignments.zemoso.corejava.assignment5.Problem2;
+package com.javaassignments.zemoso.corejava.assignment7.Problem2;
 
 public class Bicycle extends Cycle{
 

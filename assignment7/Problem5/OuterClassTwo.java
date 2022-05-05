@@ -1,4 +1,4 @@
-package com.javaassignments.zemoso.corejava.assignment5.Problem5;
+package com.javaassignments.zemoso.corejava.assignment7.Problem5;
 
 public class OuterClassTwo extends OuterClassOne {
     public void OuterClassTwo(){

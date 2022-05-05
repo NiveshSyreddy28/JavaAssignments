@@ -1,4 +1,4 @@
-package com.javaassignments.zemoso.corejava.assignment5.Problem1;
+package com.javaassignments.zemoso.corejava.assignment7.Problem1;
 
 public abstract class Rodent {
 
