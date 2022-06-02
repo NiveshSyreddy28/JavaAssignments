@@ -20,6 +20,6 @@ public class ClassOne {
         System.out.println("Printing Member Variables");
 
         //This print statement will give error as the local varibles does't contain any value
-        System.out.println("Value of uninitialized int and char are:\t"+localInt+" "+localChar);
+        //System.out.println("Value of uninitialized int and char are:\t"+localInt+" "+localChar);
     }
 }

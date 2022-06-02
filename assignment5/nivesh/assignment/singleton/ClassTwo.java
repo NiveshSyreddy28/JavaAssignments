@@ -5,7 +5,7 @@ public class ClassTwo {
 
     public static ClassTwo initializeString(String str){
         //Accesing a non static variable from a static method is wii show an error
-        this.memberString = str;
+        //this.memberString = str;
         ClassTwo classTwoObject = new ClassTwo();
         return classTwoObject;
     }
